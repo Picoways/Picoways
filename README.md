@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">GameHub E-Commerce</p>
 
 ###
 
@@ -53,6 +53,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Countries App</p>
 
 ###
