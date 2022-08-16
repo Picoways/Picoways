@@ -2,11 +2,13 @@
 
 ###
 
-<p align="left">My name is WHAT!! My name is WHO! My name is chika chika Rodrigo Moriconi 🎈, and I´m a full stack web developer</p>
+<p align="left">My name is WHAT!! My name is WHO! My name is chika chika Rodrigo Moriconi 🎈, and I´m a full stack web developer.</p>
 
 ###
 
 <h2 align="left">About me</h2>
+<p align="left">My best qualities are my resilence and my leadership, I have a lot of experience working with groups of people and also knowing how to develop bring a team to the cleanest and most professional atmosphere possible and make it as efficient as it can be.</p>
+<p align="left">If there's somehting you should know about me is, I WONT REST UNTIL IT'S DONE. I'm really willing to spend any amount of time needed and go to whatever lenghts to achieve whatever the goals are, and that applies to anything I do, yes, I'm a stubborn one 🤖👽👾</p>
 
 ###
 
@@ -37,7 +39,7 @@
 
 ###
 
-<h2>Some of my proyects...</h2>
+<h2>Here are some of my projects...</h2>
 
 <div align="center">
   <img height="200" src="GameHub.gif"  />
