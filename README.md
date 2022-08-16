@@ -13,7 +13,7 @@
 
 ###
 
-  <h2 align="left">I work with a lot of different technologies, take a look!!🎃</h2>
+  <h2 align="left">These are the technologies that I work / have worked with at the moment, but I'm always open to learn new ones!!🎃</h2>
 
 ###
 
