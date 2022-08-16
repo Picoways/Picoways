@@ -37,13 +37,19 @@
 
 ###
 
+<h2>Some of my proyects...</h2>
+
 <div align="center">
   <img height="200" src="GameHub.gif"  />
 </div>
 
 ###
 
-<p align="left">GameHub E-Commerce</p>
+<h5 align="left">GameHub E-Commerce</h5>
+
+###
+
+<h6 align="left">This is a page</h6>
 
 ###
 
