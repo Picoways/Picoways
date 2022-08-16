@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <video height="200" src="./CountriesApp.mp4"  />
+  <video height="200" src="./CountriesApp.mp4"></video>
 </div>
 
 ###
