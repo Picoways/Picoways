@@ -53,8 +53,6 @@
 
 ###
 
-<hr style={{borderRadius:"10px", borderTop:"5px solid red"}}></hr>
-
 <div align="center">
   <img height="200" src="Countries App.gif"  />
 </div>
