@@ -44,7 +44,7 @@
 
 ###
 
-<h5 align="left">GameHub E-Commerce</h5>
+<h4 align="left">GameHub E-Commerce</h4>
 
 ###
 
