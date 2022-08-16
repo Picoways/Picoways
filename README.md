@@ -69,3 +69,8 @@
 <h5 align="left">On the details of every country you can also find the activities of the respective one, and in case you know about one that's not in there you can add it from the form by clicking on the "Add Activity" button that's wether on the top-left side of the homepage, or you may also find it on the details of a country, as long as it doesn't have any activities defined already. So I invite you all to colaborate and help my page turn into a more functional one by adding activities to you favourite countries and tell your friends that are going on vacation too look them up, so they don't forget what they can do wherever they're going⚽⚾🥎🏀🏐🏈🎱</h5>
 
 ###
+
+<h4>You wanna contact me? Let's work together!!!</h4>
+<h5>Email: picoways@gmail.com</h5>
+<h5>Linkedin: https://www.linkedin.com/in/rodrigo-moriconi-25b765244/?locale=en_US</h5>
+
