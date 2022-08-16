@@ -50,7 +50,7 @@
 
 <h5 align="left">The GameHub E.Commerce is a groupal project I participated on as the final test on Henry's academy. I was responsible for the Front-End part, and did a big part of it, but I also helped my teammates in the Back-End when things got hard or whenever I wanted to do something that was an idea of mine 🤯.</h5>
 <h5 align="left">The functionalities are pretty much the basic ones of any E-Commerce, you can leave your opinion about a products after you bought it, you can add products to your wishlist or to your cart, order by price, filter per category and so on...</h5>
-  <h5 align="left">The cool part comes on the admin side, where you have a lot of different features that will help you manage your business. The way it works is you have 2 roles, those beings owner and admin. The admin can add products to the page, edit the price, stock and description of existing ones or delete them, ban users, unban them, promote users to have admin role, force users to a password change that comes via email and last but not least drive a purchase through it's different stages those being: pending, dispatched, recieved and canceled. The owner role has the same functionalities as the admin one, with the only difference that it can also demote an admin to a regular user, in case you wanna fire somebody</h5>
+<h5 align="left">The cool part comes on the admin side, where you have a lot of different features that will help you manage your business. The way it works is you have 2 roles, those beings owner and admin. The admin can add products to the page, edit the price, stock and description of existing ones or delete them, ban users, unban them, promote users to have admin role, force users to a password change that comes via email and last but not least drive a purchase through it's different stages those being: pending, dispatched, recieved and canceled. The owner role has the same functionalities as the admin one, with the only difference that it can also demote an admin to a regular user, in case you wanna fire somebody</h5>
 
 ###
 
@@ -64,6 +64,7 @@
 
 ###
 
-<h5 align="left">This is another page</h5>
+<h5 align="left">The Countries App was my individual project for Henry's academy. It's sorta like an Atlas of countries, where you will find the different information about every country in the world like it's population, area, continent and more...</h5>
+<h5 align="left">On the details of every country you can also find the activities of the respective one, and in case you know about one that's not in there you can add it from the form by clicking on the "Add Activity" button that's wether on the top-left side of the homepage, or you may also find it on the details of a country, as long as it doesn't have any activities defined already. So I invite you all to colaborate and help my page turn into a more functional one by adding activities to you favourite countries and tell your friends that are going on vacation too look them up, so they don't forget what they can do wherever they're going⚽⚾🥎🏀🏐🏈🎱</h5>
 
 ###
