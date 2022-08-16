@@ -49,7 +49,7 @@
 
 ###
 
-<h6 align="left">This is a page</h6>
+<h5 align="left">This is a page</h5>
 
 ###
 
@@ -59,6 +59,10 @@
 
 ###
 
-<p align="left">Countries App</p>
+<h5 align="left">Countries App</h5>
+
+###
+
+<h5 align="left">This is another page</h5>
 
 ###
